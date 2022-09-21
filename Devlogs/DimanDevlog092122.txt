@@ -1,0 +1,10 @@
+
+    - Discuss your process of working on your flat game!
+	
+	It has mostly been difficult as my coding skills are very bad, but over all it has been a good experience. I really 
+	loved making the sprites for my game.I felt free to draw what I wanted as there where no boundries on what the topic 
+	of our flat game could have been. I did an environment inspired by a fast food joint in the West Village called Papaya 
+	Dog. Their burgers aren't particularly amazing, but the way the spot looks attracts calls my name when I pass by. 
+	I'd never seen a fast food place that was so colorful or eyecatching. Anyway I had a lot of fun making my rendition 
+	of the place when drawing on procreate. After this I created simple character sprites put it into unity and started 
+	adding movement to my player. 
