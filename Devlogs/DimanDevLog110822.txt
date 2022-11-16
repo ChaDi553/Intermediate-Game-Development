@@ -19,4 +19,7 @@
 	  sphere to be almost calm and nostalgic so I added a serene and playful piece of music 
 	  at the end. 
 	
+	  I wonder how big game studios use source control effectively. It seems so scary to me 
+	  I think I'd be the one to mess everything up in that situation because so many people 
+	  are on one project (I'm guessing). I wonder how they keep everything organized. 
 	  
