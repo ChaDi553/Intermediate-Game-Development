@@ -1,0 +1,22 @@
+- Update your devlog with a new entry (100+ words)
+      - Discuss your midterm production! Perhaps reflect on your feedback from the playtest?
+      - Write down 1 question you have about Unity or development in general 
+	  
+			My midterm project was a long process. I'm really not good at coding, but I
+	  knew going into this that I wanted to make someting that was more focused on 
+	  environment and narrative rather than mechanics. I more attracted wansto "sappy" 
+	  games that are more sentimental and are more down to earth. I decided to start 
+	  with the art because I thought that it would give me a clearer vision as to what 
+	  I wanted to do with the game in terms of the narrative flow. I initially wanted 
+	  to make a game where the player could just sit and click on each object and a 
+	  little description would pop up. I later started to think that it was too simple. 
+	  After developing ideas while drawing the start screen, game screen and room
+	  object assets I decided that it would be best if I could make a game that
+	  was almost like a visual novel. I learned how to use fungus and it was extremley 
+	  fun to use. I didn't think I'd like it so much, but I definatley think I'd use it 
+	  again in the future. I made it so that the items in my room are talking to the 
+	  player and explaining their history and connection to me. I wanted the room atmo
+	  sphere to be almost calm and nostalgic so I added a serene and playful piece of music 
+	  at the end. 
+	
+	  
